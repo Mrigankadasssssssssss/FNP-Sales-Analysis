@@ -1,4 +1,7 @@
 # FNP-Sales-Analysis
+
+https://github.com/Mrigankadasssssssssss/FNP-Sales-Analysis/blob/ab8fc31384f4d6343b2d139c2346552b83b9c62b/Dashboard.PNG
+
 Executive Summary – FNP Sales Analysis Dashboard
 Overview
 The FNP Sales Analysis Dashboard offers a comprehensive view of sales performance, customer behavior, and product trends. It analyzes a total of 1000 orders generating ₹5,86,176 in revenue. The key performance metrics, visualized across multiple dimensions, help stakeholders make data-driven decisions regarding marketing, inventory, and operations.
