@@ -1,6 +1,6 @@
 # FNP-Sales-Analysis
 
-https://github.com/Mrigankadasssssssssss/FNP-Sales-Analysis/blob/ab8fc31384f4d6343b2d139c2346552b83b9c62b/Dashboard.PNG
+![image alt](https://github.com/Mrigankadasssssssssss/FNP-Sales-Analysis/blob/ab8fc31384f4d6343b2d139c2346552b83b9c62b/Dashboard.PNG?raw=true)
 
 Executive Summary – FNP Sales Analysis Dashboard
 Overview
